@@ -1,0 +1,40 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto);
+body {
+  background: green;
+  background: #FFFFFF;
+  background: rgba(255, 255, 0, 0.4);
+  font-family: 'Roboto', 'Arial', sans-serif;
+  font-size: 18px;
+  font-weight: normal;
+  margin: 5px;
+  text-align: center;
+  }
+h1 {
+  color:orange;
+  }
+header a em{
+    color: #CDCDCD;
+    transition: all .5s;
+    }
+header a em:hover {
+    color: #427FED;
+    }
+a {
+  color: #427FED;
+  text-decoration: none;
+  }
+h2 {
+  border: 1px double black;
+  background: rgba(0, 255, 0, 0.4);
+  padding: 20px 0;
+  margin: 20px;
+  box-shadow: 0px 5px 5px #ABABAB;
+  }
+#Games {
+  text-align: left;
+  }
+.Info {
+  background: rgba(0, 0, 255, 0.4);
+  border-radius: 5px;
+  padding: 5px;
+    }
